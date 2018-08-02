@@ -1,0 +1,9 @@
+body, .navbar, .sidebar-sticky {
+  background-image: url("../images/bg.png");
+  background-repeat: repeat;
+  background-size: contain;
+}
+
+.navbar, .sidebar-sticky {
+  background-size: cover;
+}
